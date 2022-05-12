@@ -1,0 +1,21 @@
+.logo {
+  font-family: var(--secondary-font);
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.15;
+  letter-spacing: 0.03em;
+
+  &__accent {
+    color: var(--accent-color);
+  }
+}
+
+.header__logo {
+  color: var(--black-color);
+}
+
+.footer__logo {
+  color: var(--white-color);
+  display: inline-block;
+  margin-bottom: 20px;
+}

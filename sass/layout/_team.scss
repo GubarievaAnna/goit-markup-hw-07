@@ -1,0 +1,8 @@
+.team {
+  background-color: var(--background-color-section);
+
+  &__card-set {
+    display: flex;
+    align-items: center;
+  }
+}
